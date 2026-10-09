@@ -1,0 +1,17 @@
+
+@import "tailwindcss";
+
+body {
+  background-color: #F8F7F4;
+  color: #252525;
+  margin: 0;
+  font-family: 'Heebo', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+* {
+  box-sizing: border-box;
+}
